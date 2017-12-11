@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	background-color: #1F1F1F
+	background-color: black;
 }
 #navbar{
 	width:1800px;
@@ -36,4 +36,18 @@ body{
 	margin: 0 auto;
 	width: 1801px;
 	
+}
+.pic{
+	float: left;
+	margin-right: 20px;
+}
+.info{
+	color: white;
+}
+.person{
+	width: 1800px;
+	height: 200px;
+}
+a{
+	color: white;
 }
