@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #1F1F1F
+}
+#navbar{
+	width:1800px;
+	background-color: #ceb362;
+	height: 80px;
+	margin: 0px;
+}
+#header{
+	margin: 0px;
+	height: 505px;
+}
+.navbutton{
+	float:left;
+	width:25%;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	height:80px;
+}
+.navbutton:hover{
+	background-color: #515570;
+}
+.navbutton p {
+	margin: 20px;
+}
+.poster{
+	float: left;
+}
+.center{
+	margin: 0 auto;
+	width: 1801px;
+	
+}
