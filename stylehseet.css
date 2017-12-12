@@ -3,6 +3,7 @@
 
 body{
 	background-color: black;
+	text-align: center;
 }
 #navbar{
 	width:1800px;
@@ -43,6 +44,7 @@ body{
 }
 .info{
 	color: white;
+	text-align: left;
 }
 .person{
 	width: 1800px;
@@ -50,4 +52,18 @@ body{
 }
 a{
 	color: white;
+}
+h1{
+	color: white;
+}
+p{
+	color: white;
+}
+#privacy{
+	margin-top: 70px;
+	font-size: 8px;
+}
+iframe{
+	width: 420px;
+	height: 315px;
 }
